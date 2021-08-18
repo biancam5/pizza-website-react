@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pizza-website-react/static/css/main.3ca58fed.chunk.css",
+    "main.js": "/pizza-website-react/static/js/main.d1116e3c.chunk.js",
+    "main.js.map": "/pizza-website-react/static/js/main.d1116e3c.chunk.js.map",
+    "runtime-main.js": "/pizza-website-react/static/js/runtime-main.290758bc.js",
+    "runtime-main.js.map": "/pizza-website-react/static/js/runtime-main.290758bc.js.map",
+    "static/js/2.7471a504.chunk.js": "/pizza-website-react/static/js/2.7471a504.chunk.js",
+    "static/js/2.7471a504.chunk.js.map": "/pizza-website-react/static/js/2.7471a504.chunk.js.map",
+    "static/js/3.377997da.chunk.js": "/pizza-website-react/static/js/3.377997da.chunk.js",
+    "static/js/3.377997da.chunk.js.map": "/pizza-website-react/static/js/3.377997da.chunk.js.map",
+    "index.html": "/pizza-website-react/index.html",
+    "static/css/main.3ca58fed.chunk.css.map": "/pizza-website-react/static/css/main.3ca58fed.chunk.css.map",
+    "static/js/2.7471a504.chunk.js.LICENSE.txt": "/pizza-website-react/static/js/2.7471a504.chunk.js.LICENSE.txt",
+    "static/media/bbq.d1f9fcc4.jpg": "/pizza-website-react/static/media/bbq.d1f9fcc4.jpg",
+    "static/media/brushetta.f7c157d9.jpg": "/pizza-website-react/static/media/brushetta.f7c157d9.jpg",
+    "static/media/carbonara.8fa59763.jpeg": "/pizza-website-react/static/media/carbonara.8fa59763.jpeg",
+    "static/media/chicken-2.b642666c.jpg": "/pizza-website-react/static/media/chicken-2.b642666c.jpg",
+    "static/media/coke.32bf0ce7.jpg": "/pizza-website-react/static/media/coke.32bf0ce7.jpg",
+    "static/media/expensive.6449ceef.jpg": "/pizza-website-react/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/pizza-website-react/static/media/margherita.683bc9bb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/pizza-website-react/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/pizza-website-react/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza-5.8e3e9966.jpg": "/pizza-website-react/static/media/pizza-5.8e3e9966.jpg",
+    "static/media/pizza-7.fba88fb6.jpeg": "/pizza-website-react/static/media/pizza-7.fba88fb6.jpeg",
+    "static/media/pizza.21a1098f.jpeg": "/pizza-website-react/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLeft.e103d354.jpg": "/pizza-website-react/static/media/pizzaLeft.e103d354.jpg",
+    "static/media/pizzaLogo.fcdc67e6.png": "/pizza-website-react/static/media/pizzaLogo.fcdc67e6.png",
+    "static/media/sausage.c03b67a3.jpg": "/pizza-website-react/static/media/sausage.c03b67a3.jpg",
+    "static/media/shrimp.7d2c18f0.jpg": "/pizza-website-react/static/media/shrimp.7d2c18f0.jpg",
+    "static/media/sweet3.c495c742.jpg": "/pizza-website-react/static/media/sweet3.c495c742.jpg",
+    "static/media/tiramisu.ea74a906.jpg": "/pizza-website-react/static/media/tiramisu.ea74a906.jpg",
+    "static/media/vegan.52cbfe9e.jpg": "/pizza-website-react/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.290758bc.js",
+    "static/js/2.7471a504.chunk.js",
+    "static/css/main.3ca58fed.chunk.css",
+    "static/js/main.d1116e3c.chunk.js"
+  ]
+}
